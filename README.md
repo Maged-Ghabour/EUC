@@ -1,3 +1,3 @@
 # EUC
 
-(EUC)[https://maged-ghabour.github.io/EUC/]
+[EUC](https://maged-ghabour.github.io/EUC/)
